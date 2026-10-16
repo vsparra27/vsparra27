@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vsparra27/vsparra27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://as2.ftcdn.net/v2/jpg/04/91/10/45/1000_F_491104592_lNdEJT33HZIhqxOu3PcJ1VxUOmdLMSIH.jpg" width="100%" alt="Banner Valerie" style="border-radius: 8px;">
 
-Here are some ideas to get you started:
+Hola, soy Valerie Parra Artunduaga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudiante de Creación Digital · Universidad El Bosque
+
+</div>
+
+
+¿Cómo me imaginas con esta corta descripción?
+Me considero una persona amable, amorosa y profundamente trabajadora con cada sueño y meta que me propongo. Soy muy exigente conmigo misma y perfeccionista en lo que hago. Disfruto enfocarme en mis proyectos y en mi crecimiento personal, valorando la privacidad y manteniendo un círculo cercano.
+
+Mis Herramientas para trabajar en diseños
+*Diseño & UI/UX: Figma, Affinity Designer, Canva.
+*Desarrollo Web: HTML, CSS, JavaScript.
+*Control de Versiones: Git & GitHub.
+*Entorno: Visual Studio Code, Terminal.
+
+
+<div align="center">
+
+📫 **Contacto institucional:**  
+**vparraa@unbosque.edu.co**
+
+</div> 
