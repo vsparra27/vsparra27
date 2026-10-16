@@ -2,9 +2,9 @@
 
 <img src="https://m.media-amazon.com/images/I/71hl5VtcGHL.jpg" width="100%" alt="Paris Inspiration" style="border-radius: 8px;">
 
-# ✨ Hola, soy Valerie Parra Artunduaga ✨
+ Hola, soy Valerie Parra Artunduaga y tengo 19 años
 
-*Estudiante de Creación Digital · Universidad El Bosque* 
+Soy estudiante de Creación Digital en la Universidad El Bosque
 
 </div>
 
