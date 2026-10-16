@@ -4,8 +4,7 @@
 
 # Hola me llamo Valerie Sofia Parra Artunduaga y tengo 19 años 
 
-*Actualmente soy estudiante de Creación Digital en la Universidad El Bosque 
-*Inspirada en el arte, la elegancia y París 
+*Actualmente soy estudiante de Creación Digital en la Universidad El Bosque y me inspira mucho el arte y la elegancia de paris; es por eso que mi meta es conocer a paris sobre cualquier parte del mundo 
 
 ---
 
